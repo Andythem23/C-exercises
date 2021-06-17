@@ -1,0 +1,1 @@
+int bolsillos(int v[],int n);
