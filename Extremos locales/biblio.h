@@ -1,0 +1,1 @@
+int extloc(int *v,int n);
